@@ -1,0 +1,30 @@
+
+.App-header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.main-table {
+  width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding:5px;
+  margin: 10px;
+}
+
+.healthy {
+  color: rgb(50, 156, 50);
+}
+.not-healthy {
+  color: rgb(219, 44, 44);
+}
+

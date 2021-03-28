@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office365HealthPage", "Office365HealthPage.csproj", "{351AC43D-4D64-4C52-9906-053B0B6D18B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351AC43D-4D64-4C52-9906-053B0B6D18B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351AC43D-4D64-4C52-9906-053B0B6D18B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351AC43D-4D64-4C52-9906-053B0B6D18B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351AC43D-4D64-4C52-9906-053B0B6D18B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743F5E00-A28F-4F4D-A081-CB9143FB11C0}
+	EndGlobalSection
+EndGlobal
